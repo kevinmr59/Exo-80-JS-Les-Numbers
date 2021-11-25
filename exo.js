@@ -16,7 +16,7 @@ if (Number.isNaN(nombre)) {
 
 let flote =document.getElementById('parse-float');
 let floteO = parseInt(flote.innerHTML)
-flote.innerHTML= parseFloat(floteO*30)+'de la population blablabla';
+flote.innerHTML= parseFloat(floteO*28)+'de la population blablabla';
 
 
 let four = document.getElementById('parse-int');
